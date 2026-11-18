@@ -1,0 +1,264 @@
+{
+    "name": "osintobs",
+    "bubbles": [
+        {
+            "label": "ralucamanea02@gmail.com",
+            "type": "email",
+            "color": "#3C7DC4",
+            "x": 78.0,
+            "y": 44.0,
+            "attributes": [
+                {
+                    "name": "email_id",
+                    "status": "n/a",
+                    "value": "1",
+                    "x": 218.0,
+                    "y": 74.0,
+                    "color": "#818A05"
+                },
+                {
+                    "name": "amazon_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 218.0,
+                    "y": 114.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "instagram_status",
+                    "status": "n/a",
+                    "value": "N/A",
+                    "x": 218.0,
+                    "y": 154.0,
+                    "color": "#818A05"
+                },
+                {
+                    "name": "quora_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 218.0,
+                    "y": 194.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "spotify_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 218.0,
+                    "y": 234.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "twitter_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 218.0,
+                    "y": 274.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "7cups_status",
+                    "status": "n/a",
+                    "value": "N/A",
+                    "x": 218.0,
+                    "y": 314.0,
+                    "color": "#818A05"
+                },
+                {
+                    "name": "wordpress_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 218.0,
+                    "y": 354.0,
+                    "color": "#2E8B57"
+                }
+            ]
+        },
+        {
+            "label": "+40773753094",
+            "type": "phone",
+            "color": "#818A05",
+            "x": 356.0,
+            "y": 44.0,
+            "attributes": [
+                {
+                    "name": "phone_id",
+                    "status": "found",
+                    "value": "1",
+                    "x": 496.0,
+                    "y": 74.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "valid",
+                    "status": "found",
+                    "value": "True",
+                    "x": 496.0,
+                    "y": 114.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "possible",
+                    "status": "found",
+                    "value": "True",
+                    "x": 496.0,
+                    "y": 154.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "original_number",
+                    "status": "found",
+                    "value": "773753094",
+                    "x": 496.0,
+                    "y": 194.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "country_code",
+                    "status": "found",
+                    "value": "40",
+                    "x": 496.0,
+                    "y": 234.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "local_number",
+                    "status": "found",
+                    "value": "773753094",
+                    "x": 496.0,
+                    "y": 274.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "type",
+                    "status": "found",
+                    "value": "Mobile",
+                    "x": 496.0,
+                    "y": 314.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "e164",
+                    "status": "found",
+                    "value": "+40773753094",
+                    "x": 496.0,
+                    "y": 354.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "formatted_international",
+                    "status": "found",
+                    "value": "+40 773 753 094",
+                    "x": 496.0,
+                    "y": 394.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "formatted_mobile",
+                    "status": "found",
+                    "value": "+40 773 753 094",
+                    "x": 496.0,
+                    "y": 434.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "location",
+                    "status": "found",
+                    "value": "Romania",
+                    "x": 496.0,
+                    "y": 474.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "region_code",
+                    "status": "found",
+                    "value": "RO",
+                    "x": 496.0,
+                    "y": 514.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "timezone",
+                    "status": "found",
+                    "value": "Europe/Bucharest",
+                    "x": 496.0,
+                    "y": 554.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "operator",
+                    "status": "found",
+                    "value": "Digi Mobil",
+                    "x": 496.0,
+                    "y": 594.0,
+                    "color": "#2E8B57"
+                }
+            ]
+        },
+        {
+            "label": "mwshishi",
+            "type": "username",
+            "color": "#3C7DC4",
+            "x": 632.0,
+            "y": 46.0,
+            "attributes": [
+                {
+                    "name": "amazon_status",
+                    "status": "n/a",
+                    "value": "N/A",
+                    "x": 772.0,
+                    "y": 116.0,
+                    "color": "#818A05"
+                },
+                {
+                    "name": "instagram_status",
+                    "status": "n/a",
+                    "value": "N/A",
+                    "x": 772.0,
+                    "y": 156.0,
+                    "color": "#818A05"
+                },
+                {
+                    "name": "quora_status",
+                    "status": "n/a",
+                    "value": "N/A",
+                    "x": 772.0,
+                    "y": 196.0,
+                    "color": "#818A05"
+                },
+                {
+                    "name": "spotify_status",
+                    "status": "n/a",
+                    "value": "N/A",
+                    "x": 772.0,
+                    "y": 236.0,
+                    "color": "#818A05"
+                },
+                {
+                    "name": "7cups_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 772.0,
+                    "y": 276.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "twitter_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 772.0,
+                    "y": 316.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "tryhackme_status",
+                    "status": "found",
+                    "value": "Found",
+                    "x": 772.0,
+                    "y": 356.0,
+                    "color": "#2E8B57"
+                }
+            ]
+        }
+    ]
+}

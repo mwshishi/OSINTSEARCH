@@ -1,0 +1,127 @@
+{
+    "name": "testcirnoimg",
+    "bubbles": [
+        {
+            "label": "+40773753094",
+            "type": "phone",
+            "color": "#3C7DC4",
+            "x": 29.0,
+            "y": 39.0,
+            "attributes": [
+                {
+                    "name": "phone_id",
+                    "status": "found",
+                    "value": "1",
+                    "x": 169.0,
+                    "y": 69.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "valid",
+                    "status": "found",
+                    "value": "True",
+                    "x": 169.0,
+                    "y": 109.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "possible",
+                    "status": "found",
+                    "value": "True",
+                    "x": 169.0,
+                    "y": 149.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "original_number",
+                    "status": "found",
+                    "value": "773753094",
+                    "x": 169.0,
+                    "y": 189.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "country_code",
+                    "status": "found",
+                    "value": "40",
+                    "x": 169.0,
+                    "y": 229.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "local_number",
+                    "status": "found",
+                    "value": "773753094",
+                    "x": 169.0,
+                    "y": 269.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "type",
+                    "status": "found",
+                    "value": "Mobile",
+                    "x": 169.0,
+                    "y": 309.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "e164",
+                    "status": "found",
+                    "value": "+40773753094",
+                    "x": 169.0,
+                    "y": 349.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "formatted_international",
+                    "status": "found",
+                    "value": "+40 773 753 094",
+                    "x": 169.0,
+                    "y": 389.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "formatted_mobile",
+                    "status": "found",
+                    "value": "+40 773 753 094",
+                    "x": 169.0,
+                    "y": 429.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "location",
+                    "status": "found",
+                    "value": "Romania",
+                    "x": 169.0,
+                    "y": 469.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "region_code",
+                    "status": "found",
+                    "value": "RO",
+                    "x": 169.0,
+                    "y": 509.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "timezone",
+                    "status": "found",
+                    "value": "Europe/Bucharest",
+                    "x": 169.0,
+                    "y": 549.0,
+                    "color": "#2E8B57"
+                },
+                {
+                    "name": "operator",
+                    "status": "found",
+                    "value": "Digi Mobil",
+                    "x": 169.0,
+                    "y": 589.0,
+                    "color": "#2E8B57"
+                }
+            ]
+        }
+    ],
+    "photo_folder": "ralucatest"
+}

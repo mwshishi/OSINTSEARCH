@@ -1,0 +1,40 @@
+Report Name: test2
+
+Email: ralucamanea02@gmail.com
+    - email_id: 1 [n/a]
+    - amazon_status: Found [found]
+    - instagram_status: N/A [n/a]
+    - quora_status: Found [found]
+    - spotify_status: Found [found]
+    - twitter_status: Found [found]
+    - 7cups_status: N/A [n/a]
+    - wordpress_status: Found [found]
+
+Phone: +40773753094
+    - phone_id: 1 [found]
+    - valid: True [found]
+    - possible: True [found]
+    - original_number: 773753094 [found]
+    - country_code: 40 [found]
+    - local_number: 773753094 [found]
+    - type: Mobile [found]
+    - e164: +40773753094 [found]
+    - formatted_international: +40 773 753 094 [found]
+    - formatted_mobile: +40 773 753 094 [found]
+    - location: Romania [found]
+    - region_code: RO [found]
+    - timezone: Europe/Bucharest [found]
+    - operator: Digi Mobil [found]
+
+Email: ralucamanea02@gmail.com
+
+Username: mwshishi
+    - username_id: 1 [n/a]
+    - amazon_status: N/A [n/a]
+    - instagram_status: N/A [n/a]
+    - quora_status: N/A [n/a]
+    - spotify_status: N/A [n/a]
+    - 7cups_status: Found [found]
+    - twitter_status: Found [found]
+    - tryhackme_status: Found [found]
+
